@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/parcial2web/static/css/main.73efbf52.chunk.css",
+    "main.js": "/parcial2web/static/js/main.c9c24cca.chunk.js",
+    "main.js.map": "/parcial2web/static/js/main.c9c24cca.chunk.js.map",
+    "runtime-main.js": "/parcial2web/static/js/runtime-main.e493105b.js",
+    "runtime-main.js.map": "/parcial2web/static/js/runtime-main.e493105b.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/parcial2web/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.e0584e48.chunk.js": "/parcial2web/static/js/2.e0584e48.chunk.js",
+    "static/js/2.e0584e48.chunk.js.map": "/parcial2web/static/js/2.e0584e48.chunk.js.map",
+    "static/js/3.c9cb3b8a.chunk.js": "/parcial2web/static/js/3.c9cb3b8a.chunk.js",
+    "static/js/3.c9cb3b8a.chunk.js.map": "/parcial2web/static/js/3.c9cb3b8a.chunk.js.map",
+    "index.html": "/parcial2web/index.html",
+    "service-worker.js": "/parcial2web/service-worker.js",
+    "service-worker.js.map": "/parcial2web/service-worker.js.map",
+    "static/css/2.20aa2d7b.chunk.css.map": "/parcial2web/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.73efbf52.chunk.css.map": "/parcial2web/static/css/main.73efbf52.chunk.css.map",
+    "static/js/2.e0584e48.chunk.js.LICENSE.txt": "/parcial2web/static/js/2.e0584e48.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/parcial2web/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e493105b.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.e0584e48.chunk.js",
+    "static/css/main.73efbf52.chunk.css",
+    "static/js/main.c9c24cca.chunk.js"
+  ]
+}
