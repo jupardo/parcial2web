@@ -1,0 +1,8 @@
+{
+  "imageHeader": "Image",
+  "nameHeader": "Name",
+  "descriptionHeader": "Description",
+  "heightHeader": "Height",
+  "weightHeader": "Weight",
+  "typeHeader": "Type"
+}
